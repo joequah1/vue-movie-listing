@@ -1,0 +1,11 @@
+$primary: #f5b301;
+$text-muted: #888;
+$border-radius: 8px;
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-muted {
+  color: $text-muted;
+}
